@@ -52,13 +52,12 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/w11w || Github || '#24292e'
+  fab fa-github: https://github.com/w11w-1 || Github || '#24292e'
   fas fa-envelope: mailto:1273957219@qq.com || Email || '#4a7dbe'
 
 # --------------------------------------
 # Image Settings
 # --------------------------------------
-
 favicon: /img/dlrb.ico
 
 avatar:
